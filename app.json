@@ -6,16 +6,16 @@
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
      "BOT_TOKEN": {
-      "description": "@Botfather Den Oluşturduğunuz Botun Apisi"
+      "description": "5103541089:AAH77obZwMXGQeo_LLbFfVYEy-DSx-1Wi4Q"
     },
     "OWNER_API_ID": {
-      "description": "API_ID'niz https://my.telegram.org/apps dan ala bilirsiniz"
+      "description": "14672969"
     },
     "OWNER_API_HASH": {
-      "description": "API_HASH'iniz https://my.telegram.org/apps dan ala bilirsiniz"
+      "description": "67819474b2c4ee77b04e8ec490ad5703"
     },
     "OWNER_ID": {
-      "description": "Botunuzda Yetmili Olmasini Istediginiz Kisilerin Idleri"
+      "description": "5030750958"
     }
    },
    "buildpacks": [
