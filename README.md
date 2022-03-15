@@ -16,12 +16,12 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkinYoungSoftware/TgEglenceBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yunusmka/dogrulukcesaret)
 
 ## Alanları Doldurma
-* ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
-* ``OWNER_API_ID``: Sizin api id'niz http://my.telegram.org/ alınız!
-* ``OWNER_API_HASH``: Sizin api hash'ınız http://my.telegram.org/ alınız!
+* ``BOT_TOKEN``:5103541089:AAH77obZwMXGQeo_LLbFfVYEy-DSx-1Wi4Q!
+* ``OWNER_API_ID``:14672969!
+* ``OWNER_API_HASH``:67819474b2c4ee77b04e8ec490ad5703!
 
 
 # Örnek Start Komutu
